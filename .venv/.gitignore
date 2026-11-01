@@ -1,0 +1,21 @@
+# Environnements virtuels
+.venv/
+venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Secrets et variables d'environnement
+.env
+.env.*
+!.env.example
+
+# Dossiers de donnees locaux
+data/
+
+# Fichiers temporaires
+*.log
+
+# VS Code (configuration locale)
+.vscode/gi
